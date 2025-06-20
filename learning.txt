@@ -1,1 +1,1 @@
-Linux Version Control Business Git Github
+What I have learned from this course How to clone using git web terminal
